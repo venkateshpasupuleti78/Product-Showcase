@@ -1,6 +1,6 @@
 ## Product Showcase
 
-##Features
+## Features
 -  Clean and responsive product card layout
   
 -  Zoom effect on hover for images
